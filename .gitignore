@@ -1,0 +1,9 @@
+.claude
+.pipeline/workdir
+.pipeline/README.md
+.trunkline
+.idea
+.venv
+docs
+AGENTS.md
+CLAUDE.md
